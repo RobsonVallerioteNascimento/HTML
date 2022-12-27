@@ -1,0 +1,79 @@
+body{
+    background-image: url("../images/fundo.gif");
+    background-repeat: repeat-x;
+}
+
+#logo {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 150px;
+    height: 150px;
+}
+
+#btModulos {
+    position: absolute;
+    top: 89px;
+    left: 150px;
+    width: 167px;
+    height: 33px;
+
+}
+
+#btMaterial {
+    position: absolute;
+    top: 89px;
+    left: 317px;
+    width: 167px;
+    height: 33px;
+
+}
+
+#btSalas {
+    position: absolute;
+    top: 89px;
+    left: 484px;
+    width: 167px;
+    height: 33px;
+
+}
+
+#menu {
+    position: absolute;
+    top: 150px;
+    left: 0px;
+    width: 769px;
+    height: 30px;
+    text-align: right;
+    line-height: 30px;
+    word-spacing: 10px;
+    color: #A0A0A0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+#banner {
+    position: absolute;
+    top: 180px;
+    left: 0px;
+    width: 769px;
+    height: 308px;
+}
+
+.lkMenu {
+    text-decoration: none;
+    color: #A0A0A0;
+    font-weight: bold;
+}
+
+.lkMenu:hover {
+    color: #1128AB;
+}
+
+#main {
+    position: absolute;
+    top: 0px;
+    left: 50%;
+    width: 770px;
+    margin-left: -385px;
+}
