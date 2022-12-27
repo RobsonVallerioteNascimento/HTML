@@ -1,0 +1,33 @@
+.menu{
+    background-color: #CCCCCC;
+    width: 100px;
+    height: 20px;
+    border-right: solid 1px #FFFFFF;
+    padding-left: 5px;
+}
+.sub-menu{
+    background-color: #999999;
+    width: 100px;
+}
+#menu1{
+    position: absolute;
+    top: 80px;
+    left: 0px;
+}
+#menu2{
+    position: absolute;
+    top: 80px;
+    left: 101px;
+}
+#smenu1{
+    position: absolute;
+    top: 100px;
+    left: 0px;
+    visibility: hidden;
+}
+#smenu2{
+    position: absolute;
+    top: 100px;
+    left: 101px;
+    visibility: hidden;
+}
